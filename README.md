@@ -1,4 +1,4 @@
-""# Key Features to Implement
+## Key Features to Implement
 
 ## 1. Authentication (Mock-based)
 
@@ -64,5 +64,4 @@
 | **TypeScript**         | Type safety and static type checking    |
 | **Tailwind CSS**       | Responsive UI and utility-first styling |
 | **React Context**      | Lightweight state management            |
-| **localStorage**       | Simulated backend for auth & storage    |
-| **Jest + Testing Lib** | UI Component Testing                    |                 |                                         |
+| **localStorage**       | Simulated backend for auth & storage    |            |                                         |
